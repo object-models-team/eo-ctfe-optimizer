@@ -1,0 +1,9 @@
+[] > app
+  QQ
+  .io
+  QQ
+  .stdout
+    .txt
+    "2x2 = %2"
+    .sprintf
+      4

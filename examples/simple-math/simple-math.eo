@@ -1,0 +1,5 @@
+[] > app
+  QQ.io.stdout
+    QQ.txt.sprintf
+      "2x2 = %2"
+      2.times 2
