@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <program ms="5"
           name="multiplication.eo"
-          time="2023-03-04T20:12:40.888346947Z"
+          time="2023-03-04T20:19:08.000624349Z"
           version="0.29.0">
    <listing>[] &gt; app
   QQ.io.stdout
     QQ.txt.sprintf
-      "2x2 = %2, 3x6 = %3, 20x1 = %4"
+      "2x2 = %d, 3x6 = %d, 20x1 = %d"
       4
       18
       20
@@ -23,7 +23,7 @@
             <o base="QQ" line="3" pos="4"/>
             <o base=".txt" line="3" method="" pos="6"/>
             <o base=".sprintf" line="3" method="" pos="10">
-               <o base="string" data="bytes" line="4" pos="6">32 78 32 20 3D 20 25 32 2C 20 33 78 36 20 3D 20 25 33 2C 20 32 30 78 31 20 3D 20 25 34</o>
+               <o base="string" data="bytes" line="4" pos="6">32 78 32 20 3D 20 25 64 2C 20 33 78 36 20 3D 20 25 64 2C 20 32 30 78 31 20 3D 20 25 64</o>
                <o base="int" data="bytes" line="5" pos="6">00 00 00 00 00 00 00 04</o>
                <o base="int" data="bytes" line="6" pos="6">00 00 00 00 00 00 00 12</o>
                <o base="int" data="bytes" line="7" pos="6">00 00 00 00 00 00 00 14</o>

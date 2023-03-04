@@ -1,7 +1,7 @@
 [] > app
   QQ.io.stdout
     QQ.txt.sprintf
-      "2x2 = %2, 3x6 = %3, 20x1 = %4"
+      "2x2 = %d, 3x6 = %d, 20x1 = %d"
       2.times 2
       3.times 6
       20.times 1
