@@ -1,0 +1,6 @@
+[] > app
+  QQ.io.stdout
+    QQ.txt.sprintf
+      "2+2 = %2, 50+6 = %3"
+      2.plus 2
+      50.plus 6
